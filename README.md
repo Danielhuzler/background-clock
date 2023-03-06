@@ -1,0 +1,2 @@
+# background-clock
+ theme clock
